@@ -1,8 +1,8 @@
 {
 	"type": "filament",
 	"name": "Generic PETG @Blocks",
-	"inherits": "fdm_filament_petg",
 	"renamed_from": "Blocks Generic PETG",
+	"inherits": "fdm_filament_petg",
 	"from": "system",
 	"setting_id": "NgzPlYItKHbmGgv3",
 	"filament_id": "OFYPdQJh",

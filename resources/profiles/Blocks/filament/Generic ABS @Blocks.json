@@ -1,8 +1,8 @@
 {
 	"type": "filament",
 	"name": "Generic ABS @Blocks",
-	"inherits": "fdm_filament_abs",
 	"renamed_from": "Blocks Generic ABS",
+	"inherits": "fdm_filament_abs",
 	"from": "system",
 	"setting_id": "TL1Q1kA4t36GGObG",
 	"filament_id": "OFY9muEs",

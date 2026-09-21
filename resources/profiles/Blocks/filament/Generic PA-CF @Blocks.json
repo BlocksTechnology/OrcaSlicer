@@ -1,8 +1,8 @@
 {
 	"type": "filament",
 	"name": "Generic PA-CF @Blocks",
-	"inherits": "fdm_filament_pa",
 	"renamed_from": "Blocks Generic PA-CF",
+	"inherits": "fdm_filament_pa",
 	"from": "system",
 	"setting_id": "T6SO0WRdnG6wcyG8",
 	"filament_id": "OFQLcbps",

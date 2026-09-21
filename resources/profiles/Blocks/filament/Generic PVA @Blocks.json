@@ -1,8 +1,8 @@
 {
 	"type": "filament",
 	"name": "Generic PVA @Blocks",
-	"inherits": "fdm_filament_pva",
 	"renamed_from": "Blocks Generic PVA",
+	"inherits": "fdm_filament_pva",
 	"from": "system",
 	"setting_id": "tNw3oe7VovLkgUbB",
 	"filament_id": "OFDvXujf",

@@ -1,8 +1,8 @@
 {
 	"type": "filament",
 	"name": "Generic ASA-CF @Blocks",
-	"inherits": "fdm_filament_asa",
 	"renamed_from": "Blocks Generic ASA-CF",
+	"inherits": "fdm_filament_asa",
 	"from": "system",
 	"setting_id": "ju4ue7yJoz3ujny6",
 	"filament_id": "OF53eLVD",

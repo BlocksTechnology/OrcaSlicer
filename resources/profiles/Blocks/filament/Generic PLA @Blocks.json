@@ -1,8 +1,8 @@
 {
 	"type": "filament",
 	"name": "Generic PLA @Blocks",
-	"inherits": "fdm_filament_pla",
 	"renamed_from": "Blocks Generic PLA",
+	"inherits": "fdm_filament_pla",
 	"from": "system",
 	"setting_id": "kjhuttx4T8OtTNmV",
 	"filament_id": "OFDSrzZ8",

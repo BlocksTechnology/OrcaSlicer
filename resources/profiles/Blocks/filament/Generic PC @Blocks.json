@@ -1,8 +1,8 @@
 {
 	"type": "filament",
 	"name": "Generic PC @Blocks",
-	"inherits": "fdm_filament_pc",
 	"renamed_from": "Blocks Generic PC",
+	"inherits": "fdm_filament_pc",
 	"from": "system",
 	"setting_id": "Xhs8PjtmwwVj0ksE",
 	"filament_id": "OFLakOUI",

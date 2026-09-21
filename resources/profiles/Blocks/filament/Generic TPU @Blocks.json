@@ -1,8 +1,8 @@
 {
 	"type": "filament",
 	"name": "Generic TPU @Blocks",
-	"inherits": "fdm_filament_tpu",
 	"renamed_from": "Blocks Generic TPU",
+	"inherits": "fdm_filament_tpu",
 	"from": "system",
 	"setting_id": "6iVYOCZo8ugs4JA0",
 	"filament_id": "OFgbpcy9",
