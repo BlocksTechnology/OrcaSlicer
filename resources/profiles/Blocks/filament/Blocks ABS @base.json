@@ -1,12 +1,13 @@
 {
 	"type": "filament",
-	"name": "Generic ASA @Blocks",
-	"renamed_from": "Blocks Generic ASA",
-	"inherits": "fdm_filament_asa",
+	"name": "Blocks ABS @base",
+	"inherits": "fdm_filament_abs",
 	"from": "system",
-	"setting_id": "xP7cB4RHgbm4cYDD",
-	"filament_id": "OFLPAxz3",
-	"instantiation": "true",
+	"filament_id": "OFBBhiX8",
+	"instantiation": "false",
+	"filament_vendor": [
+		"Blocks"
+	],
 	"filament_flow_ratio": [
 		"0.95"
 	],
@@ -20,10 +21,10 @@
 		"18"
 	],
 	"nozzle_temperature_initial_layer": [
-		"260"
+		"255"
 	],
 	"nozzle_temperature": [
-		"260"
+		"255"
 	],
 	"nozzle_temperature_range_low": [
 		"230"
@@ -81,13 +82,5 @@
 	],
 	"during_print_exhaust_fan_speed": [
 		"100"
-	],
-	"compatible_printers": [
-		"BLOCKS RD50 V2 0.4 nozzle",
-		"BLOCKS RD50 V2 0.6 nozzle",
-		"BLOCKS RD50 V2 0.8 nozzle",
-		"BLOCKS RF50 0.4 nozzle",
-		"BLOCKS RF50 0.6 nozzle",
-		"BLOCKS RF50 0.8 nozzle"
 	]
 }

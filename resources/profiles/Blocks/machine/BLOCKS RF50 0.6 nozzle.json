@@ -84,5 +84,8 @@
 	],
 	"retract_before_wipe": [
 		"0"
+	],
+	"default_filament_profile": [
+		"Blocks PLA @Blocks_RF50"
 	]
 }

@@ -26,5 +26,8 @@
 	"upward_compatible_machine": [
 		"BLOCKS Pro S100"
 	],
-	"printer_variant": "0.6"
+	"printer_variant": "0.6",
+	"default_filament_profile": [
+		"Blocks PLA @Blocks_Pro_S100"
+	]
 }

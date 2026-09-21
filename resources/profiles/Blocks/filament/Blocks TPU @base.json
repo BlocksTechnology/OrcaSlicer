@@ -1,12 +1,13 @@
 {
 	"type": "filament",
-	"name": "Generic TPU @Blocks",
-	"renamed_from": "Blocks Generic TPU",
+	"name": "Blocks TPU @base",
 	"inherits": "fdm_filament_tpu",
 	"from": "system",
-	"setting_id": "6iVYOCZo8ugs4JA0",
-	"filament_id": "OFgbpcy9",
-	"instantiation": "true",
+	"filament_id": "OFYnedOZ",
+	"instantiation": "false",
+	"filament_vendor": [
+		"Blocks"
+	],
 	"filament_max_volumetric_speed": [
 		"4"
 	],
@@ -54,18 +55,5 @@
 	],
 	"during_print_exhaust_fan_speed": [
 		"80"
-	],
-	"compatible_printers": [
-		"BLOCKS Pro S100 0.4 nozzle",
-		"BLOCKS Pro S100 0.6 nozzle",
-		"BLOCKS Pro S100 0.8 nozzle",
-		"BLOCKS Pro S100 1.0 nozzle",
-		"BLOCKS Pro S100 1.2 nozzle",
-		"BLOCKS RD50 V2 0.4 nozzle",
-		"BLOCKS RD50 V2 0.6 nozzle",
-		"BLOCKS RD50 V2 0.8 nozzle",
-		"BLOCKS RF50 0.4 nozzle",
-		"BLOCKS RF50 0.6 nozzle",
-		"BLOCKS RF50 0.8 nozzle"
 	]
 }

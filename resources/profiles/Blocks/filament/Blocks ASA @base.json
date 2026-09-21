@@ -1,14 +1,12 @@
 {
 	"type": "filament",
-	"name": "Generic ASA-CF @Blocks",
-	"renamed_from": "Blocks Generic ASA-CF",
+	"name": "Blocks ASA @base",
 	"inherits": "fdm_filament_asa",
 	"from": "system",
-	"setting_id": "ju4ue7yJoz3ujny6",
-	"filament_id": "OF53eLVD",
-	"instantiation": "true",
-	"filament_type": [
-		"ASA-CF"
+	"filament_id": "OFTz2YXa",
+	"instantiation": "false",
+	"filament_vendor": [
+		"Blocks"
 	],
 	"filament_flow_ratio": [
 		"0.95"
@@ -20,7 +18,7 @@
 		"99.5%"
 	],
 	"filament_max_volumetric_speed": [
-		"10"
+		"18"
 	],
 	"nozzle_temperature_initial_layer": [
 		"260"
@@ -35,22 +33,22 @@
 		"280"
 	],
 	"hot_plate_temp_initial_layer": [
-		"95"
+		"90"
 	],
 	"hot_plate_temp": [
-		"95"
+		"90"
 	],
 	"fan_min_speed": [
 		"10"
 	],
 	"fan_max_speed": [
-		"45"
+		"100"
 	],
 	"fan_cooling_layer_time": [
-		"35"
+		"30"
 	],
 	"slow_down_layer_time": [
-		"3"
+		"10"
 	],
 	"close_fan_the_first_x_layers": [
 		"4"
@@ -62,7 +60,7 @@
 		"1"
 	],
 	"slow_down_min_speed": [
-		"10"
+		"30"
 	],
 	"enable_overhang_bridge_fan": [
 		"1"
@@ -71,7 +69,7 @@
 		"25%"
 	],
 	"overhang_fan_speed": [
-		"50%"
+		"100%"
 	],
 	"additional_cooling_fan_speed": [
 		"0"
@@ -80,17 +78,9 @@
 		"1"
 	],
 	"complete_print_exhaust_fan_speed": [
-		"80"
+		"100"
 	],
 	"during_print_exhaust_fan_speed": [
 		"100"
-	],
-	"compatible_printers": [
-		"BLOCKS RD50 V2 0.4 nozzle",
-		"BLOCKS RD50 V2 0.6 nozzle",
-		"BLOCKS RD50 V2 0.8 nozzle",
-		"BLOCKS RF50 0.4 nozzle",
-		"BLOCKS RF50 0.6 nozzle",
-		"BLOCKS RF50 0.8 nozzle"
 	]
 }

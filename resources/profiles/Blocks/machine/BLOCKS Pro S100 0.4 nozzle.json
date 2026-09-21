@@ -25,5 +25,8 @@
 	"printable_height": "900",
 	"upward_compatible_machine": [
 		"BLOCKS Pro S100"
+	],
+	"default_filament_profile": [
+		"Blocks PLA @Blocks_Pro_S100"
 	]
 }

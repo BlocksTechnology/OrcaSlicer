@@ -1,12 +1,13 @@
 {
 	"type": "filament",
-	"name": "Generic PA-CF @Blocks",
-	"renamed_from": "Blocks Generic PA-CF",
+	"name": "Blocks PA-CF @base",
 	"inherits": "fdm_filament_pa",
 	"from": "system",
-	"setting_id": "T6SO0WRdnG6wcyG8",
-	"filament_id": "OFQLcbps",
-	"instantiation": "true",
+	"filament_id": "OFdWrXpL",
+	"instantiation": "false",
+	"filament_vendor": [
+		"Blocks"
+	],
 	"filament_type": [
 		"PA-CF"
 	],
@@ -87,13 +88,5 @@
 	],
 	"during_print_exhaust_fan_speed": [
 		"80"
-	],
-	"compatible_printers": [
-		"BLOCKS RD50 V2 0.4 nozzle",
-		"BLOCKS RD50 V2 0.6 nozzle",
-		"BLOCKS RD50 V2 0.8 nozzle",
-		"BLOCKS RF50 0.4 nozzle",
-		"BLOCKS RF50 0.6 nozzle",
-		"BLOCKS RF50 0.8 nozzle"
 	]
 }
